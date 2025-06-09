@@ -4,7 +4,7 @@ A production-style REST API for managing student records using **Node.js**, **Ex
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Full CRUD for students
 - ✅ Zod-based input validation
@@ -27,7 +27,7 @@ A production-style REST API for managing student records using **Node.js**, **Ex
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repo
 
@@ -82,7 +82,7 @@ npm run dev
 
 ---
 
-## 🧪 Postman Testing
+## Postman Testing
 
 Import this file into Postman:
 
@@ -93,28 +93,3 @@ postman/student-api.postman_collection.json
 You can run all 5 endpoints instantly with ready-to-use requests.
 
 ---
-
-## 📁 Project Structure
-
-```
-.
-├── prisma/
-│   └── schema.prisma
-├── src/
-│   ├── app.js
-│   ├── routes/
-│   ├── controllers/
-│   ├── middleware/
-│   └── validators/
-├── postman/
-│   └── student-api.postman_collection.json
-├── .env
-├── package.json
-└── README.md
-```
-
----
-
-## 📄 License
-
-MIT — use this freely for personal or professional learning.
